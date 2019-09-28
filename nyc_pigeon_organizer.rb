@@ -18,7 +18,7 @@ def nyc_pigeon_organizer(pigeon_data)
             
       
     
-          end
+          
         end #loop thru array of pigeon names
       end #loop thru attribute color,gender,lives
     end #loop thru each input element
