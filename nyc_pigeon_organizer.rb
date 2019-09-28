@@ -16,7 +16,7 @@ def nyc_pigeon_organizer(pigeon_data)
             end #:color exists
             new_pigeon_hash[pigeon_name][attribute].push(att_type.to_s)
             
-          else #: Theo exists
+      
     
           end
         end #loop thru array of pigeon names
